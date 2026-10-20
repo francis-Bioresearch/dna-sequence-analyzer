@@ -16,7 +16,6 @@ The DNA Sequence Analyzer accepts a DNA sequence, checks whether it contains val
 - Counts individual nucleotide bases (A, T, G, and C).
 - Calculates GC content as a percentage.
 - Handles empty and invalid sequence input.
-- Calculates GC content as a percentage.
 - Generates the reverse complement of a valid DNA sequence.
 
 ## Technologies Used
