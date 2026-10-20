@@ -41,18 +41,16 @@ Input:
 AAGCTTGC
 ```
 
-Expected output:
+Input: AAGCTTGC
 
-```text
+Expected output:
 Sequence length: 8
 A bases: 2
 T bases: 2
 G bases: 2
 C bases: 2
 GC content: 50.0 %
-Input: AAGC
-Reverse complement: GCTT
-```
+Reverse complement: GCAAGCTT
 
 ## Learning Objectives
 
