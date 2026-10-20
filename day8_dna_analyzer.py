@@ -30,12 +30,6 @@ else:
     print("C bases:", c_count)
     print("GC content:", round(gc_content, 2), "%")
 
-def add_numbers(a, b):
-    return a + b
-
-result = add_numbers(5, 3)
-
-print(result)
 
 
 
