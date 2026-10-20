@@ -31,6 +31,10 @@ else:
     print("GC content:", round(gc_content, 2), "%")
 
 
+    complement_table = str.maketrans("ATGC", "TACG")
+    complement = sequence.translate(complement_table)
+    reverse_complement = complement[::-1]
 
+    print("Reverse complement:", reverse_complement)
 
 
